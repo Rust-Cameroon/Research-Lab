@@ -90,3 +90,6 @@ coverage/
 
 # Optional REPL history
 .node_repl_history 
+
+# Rust build artifacts
+/target/
